@@ -12,7 +12,7 @@ function main(){
             for(let i = 0; i <= results.length; i++){
                 let {name, gender, height}= results[i];
                 console.log(name, gender, height);
-                let imgPath = `../images/character${i}.jpg`;
+                let imgPath = `./images/character${i}.jpg`;
                 document.getElementById('rows').innerHTML += `<main class="col-lg-3 col-sm-6">
                 <img
                   src= ${imgPath}
@@ -42,7 +42,7 @@ function main(){
                         <h4 class="modal-title text-center">${name}</h4>
                     </div>
                     <div class="modal-body">
-                        <img src="../images/character${i}.jpg" width="100%" height="100%" />
+                        <img src="./images/character${i}.jpg" width="100%" height="100%" />
                         <p class="text-danger">A dummy picture for this character</p>
                         <ul class="no-bullets">
                             <li>Name: ${name}</li>
