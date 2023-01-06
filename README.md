@@ -19,4 +19,4 @@ You are to create a SPA (single page application) using html, CSS and JavaScript
 5. When you are done, host on heroku or netlify (link should be added to your turned in field on Teams)
 
 
-![A description of the image](./images/image.png)
+![A description of the image](https://github.com/Beinglegendary/STAR-WARS/tree/main/images)
