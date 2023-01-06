@@ -19,4 +19,7 @@ You are to create a SPA (single page application) using html, CSS and JavaScript
 5. When you are done, host on heroku or netlify (link should be added to your turned in field on Teams)
 
 
-![A description of the image](https://github.com/Beinglegendary/STAR-WARS/tree/main/images)
+## Below is the screenshot of the solution 
+![Screenshot (204)](https://user-images.githubusercontent.com/99263767/210978016-fcb55bf0-ddcd-40dc-93bd-835f34896c0d.png)
+![Screenshot (205)](https://user-images.githubusercontent.com/99263767/210978037-c7b569a1-db48-4b04-904f-a07499cbd18b.png)
+![Screenshot (206)](https://user-images.githubusercontent.com/99263767/210978066-4320db5c-69e3-4cf3-80e7-08fc7488a13b.png)
