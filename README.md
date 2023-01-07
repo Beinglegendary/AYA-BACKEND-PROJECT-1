@@ -1,4 +1,4 @@
-# Week-One-SQ009
+# AYAGIGS FIRST BACKEND PROJECT ON JAVASCRIPT API FETCHING 
 
 ## Problem Description:
 
